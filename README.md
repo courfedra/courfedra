@@ -29,9 +29,11 @@ const perfilDocente = [
 
 <p align="center">
     <a display="flex" href="https://www.linkedin.com/in/franandres/">
-        <p>Linkedin</p>
-        <img width="25%" src="https://i.ibb.co/599707Q/linkedin-Logo.png" alt="FranciscoLogo" />
+        <img width="25%" src="https://i.ibb.co/599707Q/linkedin-Logo.png" alt="linkedinLogo" />
     </a>
 </p>
 
 👉 Email: frananadres93@gmail.com
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexmarinmendez&theme=dark" alt="alexmarinmendez" /></p>
