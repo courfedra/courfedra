@@ -23,7 +23,6 @@ const perfilDocente = [
     "Apasionado por aprender y enseñar",
 ];
 ```
-<h5> Mi Logo</h5>
 
-<p align="center"><img style="width:50%" src="[https://i.ibb.co/Q6j5dY4/Logo-Frontend-Solo-removebg-preview.png](https://i.ibb.co/McFX1qT/Logo-Frontend-removebg-preview.png)" alt="FranciscoLogo" /></p>
+<p align="center"><img width="50%" src="https://i.ibb.co/McFX1qT/Logo-Frontend-removebg-preview.png" alt="FranciscoLogo" /></p>
 
