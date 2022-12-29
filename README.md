@@ -27,5 +27,5 @@ const perfilDocente = [
 <p align="center"><img width="50%" src="https://i.ibb.co/McFX1qT/Logo-Frontend-removebg-preview.png" alt="FranciscoLogo" /></p>
 
 
-- 👉 an [Linkedin] (https://www.linkedin.com/in/franandres/)
+- 👉 [[Linkedin](https://i.ibb.co/599707Q/linkedin-Logo.png)] (https://www.linkedin.com/in/franandres/)
 - 👉 Email: frananadres93@gmail.com
