@@ -2,7 +2,7 @@
 
 <h1>Soy Francisco Andres</h1>
 
-<p><img style="width:100%" src="[https://i.ibb.co/XFJHff7/react-Back-Ground.jpg](https://i.ibb.co/wMX4ZKs/corte-fran.jpg)" alt="FranciscoProfilePhoto"/></p>
+<img style="width:100%" src="https://i.ibb.co/wMX4ZKs/corte-fran.jpg" alt="FranciscoProfilePhoto"/>
 
 <h3>Soy Desarrollador <em>Frontend</em></h3>
 
