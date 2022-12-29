@@ -35,13 +35,3 @@ const perfilDocente = [
 
 👉 Email: frananadres93@gmail.com
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmarinmendez&show_icons=true&theme=dark&locale=es&layout=compact" alt="alexmarinmendez" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexmarinmendez&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" alt="alexmarinmendez" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexmarinmendez&theme=dark" alt="alexmarinmendez" /></p>
-
-<h4 align="center">Gracias por pasar por aquí 😁</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{alexmarinmendez}/count.svg" alt="alexmarinmendez :: Visitor's Count" /></p>
