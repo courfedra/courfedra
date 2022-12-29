@@ -13,8 +13,10 @@ const perfilFrontend = [
     "Aprendizaje contínuo",
 ];
 ```
-<p><img align="center" style="width:50%;align-items:center" src="https://i.ibb.co/wMX4ZKs/corte-fran.jpg" alt="FranciscoPerfil" /></p>
-```
+
+<p><img style="width:50%;align-self:center" src="https://i.ibb.co/wMX4ZKs/corte-fran.jpg" alt="FranciscoPerfil" /></p>
+
+```javascript
 const perfilDocente = [
     "Docente de Música",
     "Planificación de contenidos diarios, mensuales y anuales",
@@ -22,4 +24,5 @@ const perfilDocente = [
     "Apasionado por aprender y enseñar",
 ];
 ```
-<p><img align="center" style="width:50%;align-items:center" src="[https://i.ibb.co/wMX4ZKs/corte-fran.jpg](https://i.ibb.co/2n0cRLn/escuela-Rock.jpg)" alt="FranciscoDocente" /></p>
+
+<p><img align="center" width:"50%" src="[https://i.ibb.co/wMX4ZKs/corte-fran.jpg](https://i.ibb.co/2n0cRLn/escuela-Rock.jpg)" alt="FranciscoDocente" /></p>
