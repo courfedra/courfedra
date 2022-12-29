@@ -2,11 +2,11 @@
 
 <h1>Soy Francisco Andres</h1>
 
-<p><img style="width:100px" src="https://i.ibb.co/XFJHff7/react-Back-Ground.jpg" alt="React" title="" /></p>
+<p><img style="width:100%" src="https://i.ibb.co/XFJHff7/react-Back-Ground.jpg" alt="React" title="" /></p>
 
 <h3>Soy Desarrollador <em>Frontend</em></h3>
 
-<p>```javascript</p>
+```javascript</p>
 
 <p>const perfilFrontend = [
     "Desarrollador Frontend",
@@ -20,4 +20,4 @@
     "+3 años de experiencia",
     "Apasionado por aprender y enseñar",
 ];
-```</p>
+```
