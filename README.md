@@ -27,10 +27,8 @@ const perfilDocente = [
 <p align="center"><img width="50%" src="https://i.ibb.co/McFX1qT/Logo-Frontend-removebg-preview.png" alt="FranciscoLogo" /></p>
 
 
-
-[![Linkedin]]()
 <p align="center">
-    <a href="https://www.linkedin.com/in/franandres/">
+    <a display="flex" href="https://www.linkedin.com/in/franandres/">
         <p>Linkedin</p>
         <img width="25%" src="https://i.ibb.co/599707Q/linkedin-Logo.png" alt="FranciscoLogo" />
     </a>
