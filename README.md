@@ -1,24 +1,25 @@
-    <h2>👋 ¡Hola! 👋</h2>
+👋 ¡Hola! 👋
+------
+Soy Francisco Andres
+======
 
-    <h1>Soy Francisco Andres</h1>
+![FranciscoProfile](https://i.ibb.co/wMX4ZKs/corte-fran.jpg)
+<p><img style="width:50%;align-items:center" src="https://i.ibb.co/wMX4ZKs/corte-fran.jpg" alt="FranciscoProfile" /></p>
 
-    <img style="width:50%,align-items:center" src="https://i.ibb.co/wMX4ZKs/corte-fran.jpg" alt="FranciscoProfilePhoto"/>
+###Soy Desarrollador _Frontend_
 
-    <h3>Soy Desarrollador <em>Frontend</em></h3>
+```javascript
 
-    ```javascript</p>
+const perfilFrontend = [
+    "Desarrollador Frontend",
+    "Conocimiento de lógica de programación y solución de problemas",
+    "Aprendizaje contínuo",
+];
 
-    const perfilFrontend = [
-        "Desarrollador Frontend",
-        "Conocimiento de lógica de programación y solución de problemas",
-        "Aprendizaje contínuo",
-    ];
-
-    const perfilDocente = [
-        "Docente de Música",
-        "Planificación de contenidos diarios, mensuales y anuales",
-        "+3 años de experiencia",
-        "Apasionado por aprender y enseñar",
-    ];
-    ```
-
+const perfilDocente = [
+    "Docente de Música",
+    "Planificación de contenidos diarios, mensuales y anuales",
+    "+3 años de experiencia",
+    "Apasionado por aprender y enseñar",
+];
+```
