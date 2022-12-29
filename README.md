@@ -1,24 +1,23 @@
-👋 ¡Hola! 👋
-------
-Soy Francisco Andres
-======
+<h2>👋 ¡Hola! 👋</h2>
 
-###Soy Desarrollador _Frontend_
+<h1>Soy Francisco Andres</h1>
 
-Mis conocimientos generales son:
+<p><img style="width:100px" src="https://i.ibb.co/XFJHff7/react-Back-Ground.jpg" alt="React" title="" /></p>
 
-```javascript
+<h3>Soy Desarrollador <em>Frontend</em></h3>
 
-const perfilFrontend = [
+<p>```javascript</p>
+
+<p>const perfilFrontend = [
     "Desarrollador Frontend",
     "Conocimiento de lógica de programación y solución de problemas",
     "Aprendizaje contínuo",
-];
+];</p>
 
-const perfilDocente = [
+<p>const perfilDocente = [
     "Docente de Música",
     "Planificación de contenidos diarios, mensuales y anuales",
     "+3 años de experiencia",
     "Apasionado por aprender y enseñar",
 ];
-```
+```</p>
