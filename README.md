@@ -1,9 +1,8 @@
-<div style="text-align:center">
     <h2>👋 ¡Hola! 👋</h2>
 
     <h1>Soy Francisco Andres</h1>
 
-    <img style="width:50%" src="https://i.ibb.co/wMX4ZKs/corte-fran.jpg" alt="FranciscoProfilePhoto"/>
+    <img style="width:50%,align-items:center" src="https://i.ibb.co/wMX4ZKs/corte-fran.jpg" alt="FranciscoProfilePhoto"/>
 
     <h3>Soy Desarrollador <em>Frontend</em></h3>
 
@@ -22,4 +21,4 @@
         "Apasionado por aprender y enseñar",
     ];
     ```
-</div>
+
