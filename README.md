@@ -4,7 +4,8 @@
 <p align="center"><img style="width:50%" src="https://i.ibb.co/wMX4ZKs/corte-fran.jpg" alt="FranciscoPerfil" /></p>
 
 <h2 align="center">Soy Desarrollador Frontend</h2>
-
+<h3>Busco ganar experiencia en el mundo IT</h3>
+<h3>Dispuesto y predispuesto a mi pasión por programar</h3>
 <br>
 
 ```javascript
