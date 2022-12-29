@@ -28,6 +28,12 @@ const perfilDocente = [
 
 
 
-[![Linkedin](https://i.ibb.co/599707Q/linkedin-Logo.png)](https://www.linkedin.com/in/franandres/)
+[![Linkedin]]()
+<p align="center">
+    <a href="https://www.linkedin.com/in/franandres/">
+        <p>Linkedin</p>
+        <img width="25%" src="https://i.ibb.co/599707Q/linkedin-Logo.png" alt="FranciscoLogo" />
+    </a>
+</p>
 
 👉 Email: frananadres93@gmail.com
