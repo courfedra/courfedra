@@ -1,16 +1,24 @@
-### Hi there 👋
+👋 ¡Hola! 👋
+------
+Soy Francisco Andres
+======
 
-<!--
-**courfedra/courfedra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Soy Desarrollador _Frontend_
 
-Here are some ideas to get you started:
+Mis conocimientos generales son:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+
+const perfilFrontend = [
+    "Desarrollador Frontend",
+    "Conocimiento de lógica de programación y solución de problemas",
+    "Aprendizaje contínuo",
+];
+
+const perfilDocente = [
+    "Docente de Música",
+    "Planificación de contenidos diarios, mensuales y anuales",
+    "+3 años de experiencia",
+    "Apasionado por aprender y enseñar",
+];
+```
