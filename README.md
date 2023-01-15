@@ -34,5 +34,6 @@ const perfilDocente = [
 </p>
 
 👉 Email: frananadres93@gmail.com
+<br>
 👉 Mi Web: http://franandres.vercel.app (en construcción)
 
