@@ -13,14 +13,14 @@
 const perfilFrontend = [
     "Desarrollador Frontend",
     "Conocimiento de lógica de programación y solución de problemas",
-    "Aprendizaje contínuo",
+    "Aprendizaje contínuo"
 ];
 
 const perfilDocente = [
     "Docente de Música",
     "Planificación de contenidos diarios, mensuales y anuales",
     "+3 años de experiencia",
-    "Apasionado por aprender y enseñar",
+    "Apasionado por aprender y enseñar"
 ];
 ```
 
@@ -34,4 +34,5 @@ const perfilDocente = [
 </p>
 
 👉 Email: frananadres93@gmail.com
+👉 Mi Web: http://franandres.vercel.app (en construcción)
 
