@@ -21,7 +21,7 @@
 ```
 
 <div>
-    [![courfedra's github stats](https://github-readme-stats.vercel.app/api?username=courfedra)](https://github.com/anuraghazra/github-readme-stats)
+    [![courfedra's GitHub stats](https://github-readme-stats.vercel.app/api?username=courfedra)](https://github.com/courfedra/github-readme-stats)
 </div>
 
 <div style="display:flex; flex-direction:column;justify-content:center;align-items:center; text-align:center; padding: 20px 0">
