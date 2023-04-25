@@ -21,7 +21,8 @@
 ```
 
 <div>
-    [![courfedra's GitHub stats](https://github-readme-stats.vercel.app/api?username=courfedra)] (https://github-readme-stats.vercel.app/api?username=courfedra)
+    
+[![courfedra's GitHub stats](https://github-readme-stats.vercel.app/api?username=courfedra)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display:flex; flex-direction:column;justify-content:center;align-items:center; text-align:center; padding: 20px 0">
     <p style="font-size:1.5rem;color:#4781de">
