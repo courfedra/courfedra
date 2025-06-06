@@ -33,7 +33,7 @@
     </a>
     <p style="font-size:1.5rem;color:#4781de">👉 Email: <span style="font-size:1.25rem; color:#f5f5f5">consultas@courfedra.com</span></p>
     <p style="font-size:1.5rem;color:#4781de">👉 Mi Web:
-        <span style="font-size:1.25rem; color:#f5f5f5"><a style="color:#f5f5f5">http://courfedra.com</a></span>
+        <span style="font-size:1.25rem; color:#f5f5f5"><a href="https://courfedra.com" style="color:#f5f5f5">Courfedra.com</a></span>
     </p>
 </div>
 <div style="background-color:white; display:flex; justify-content:center;align-items:center">
