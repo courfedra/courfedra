@@ -31,9 +31,9 @@
     <a href="https://www.linkedin.com/in/franandres/">
         <img width="10%" src="https://i.ibb.co/599707Q/linkedin-Logo.png" alt="linkedinLogo" />
     </a>
-    <p style="font-size:1.5rem;color:#4781de">👉 Email: <span style="font-size:1.25rem; color:#f5f5f5">frananadres93@gmail.com</span></p>
+    <p style="font-size:1.5rem;color:#4781de">👉 Email: <span style="font-size:1.25rem; color:#f5f5f5">consultas@courfedra.com</span></p>
     <p style="font-size:1.5rem;color:#4781de">👉 Mi Web:
-        <span style="font-size:1.25rem; color:#f5f5f5"><a style="color:#f5f5f5">http://franandres.vercel.app</a> (en construcción)</span>
+        <span style="font-size:1.25rem; color:#f5f5f5"><a style="color:#f5f5f5">http://courfedra.com</a></span>
     </p>
 </div>
 <div style="background-color:white; display:flex; justify-content:center;align-items:center">
